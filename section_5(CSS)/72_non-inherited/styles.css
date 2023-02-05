@@ -1,0 +1,11 @@
+.inner {
+    width: 100px;
+    height: 50px;
+    border: inherit;
+  }
+  
+  .outer {
+    background-color: #bbbbbb;
+    padding: 10px;
+    border: 2px solid black;
+  }
